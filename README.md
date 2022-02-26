@@ -1,2 +1,1 @@
-# nextjs-smart-CLI
-Frontend Next.js de app Smart-CLI
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).

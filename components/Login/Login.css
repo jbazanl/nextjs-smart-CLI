@@ -1,0 +1,19 @@
+.login {
+    min-height: 100vh;
+}
+
+.bg-image {
+    background-image: url('https://debmedia.com/blog/wp-content/uploads/2021/10/21-10-C-C%C3%B3mo-mejorar-la-Experiencia-del-Cliente-en-un-Call-Center-pre.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.login-heading {
+    font-weight: 300;
+}
+
+.btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+}
